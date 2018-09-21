@@ -1,0 +1,14 @@
+{
+
+  "TFS_username":"TND\\TND_VSTO_build_test",
+  "TFS_password": "&a3WAZQjVTfh5_hY",
+  "hostIP":"10.153.5.68",
+  "hostPort":8001,
+  "tfs_prod":"http://tfs.cbre.com:8080/tfs/CBRE01/",
+  "tfs_test":"http://test-tfs.cbre.com:8080/tfs/CBRE01/",
+  "automation_tool_id":19,
+  "AutomationProcessId_create":21,
+  "AutomationProcessId_update":22,
+  "AutomationProcessId_search":22
+
+}

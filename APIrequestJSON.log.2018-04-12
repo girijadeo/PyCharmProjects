@@ -1,0 +1,35 @@
+2018-04-12 08:41:50,299 - logger_request - INFO - Connection received from :('10.153.4.10', 52967)
+2018-04-12 08:41:50,361 - logger_request - INFO - Request JSON = {'test': 1, 'application_id': 2, 'automation_tool_id': 24, 'tfs_env': 'test', 'action': 'search', 'id': '213781', 'attribute_to_update': 'repro_steps', 'title': 'Created on 03/19/2018', 'defect_title_to_search': 'Test', 'repro_steps': 'test repro steps---updated--------', 'project_name_in_TFS': 'Test', 'SystemInfo': 'Environment', 'priority': '2', 'severity': '3 - Medium', 'worktype': 'Maintenance/Support', 'history': 'test'}
+2018-04-12 08:41:56,306 - logger_request - INFO - Connection received from :('10.153.4.10', 52969)
+2018-04-12 08:41:56,310 - logger_request - INFO - Raw request = POST / HTTP/1.1
+cache-control: no-cache
+Postman-Token: be81ab39-528e-4a97-9e7f-9102fcf2abf5
+Accept: application/json
+Content-Type: application/json
+User-Agent: PostmanRuntime/6.4.1
+Host: 10.153.4.10:8001
+accept-encoding: gzip, deflate
+content-length: 434
+Connection: keep-alive
+
+{
+"test":1,
+"application_id":2
+"automation_tool_id":24,
+"tfs_env":"test",
+"action":"search",
+"id":"213781",
+"attribute_to_update": "repro_steps",
+"title":"Created on 03/19/2018",
+"defect_title_to_search":"Test",
+"repro_steps":"test repro steps---updated--------",
+"project_name_in_TFS":"Test",
+"SystemInfo":"Environment",
+"priority":"2",
+"severity":"3 - Medium",
+"worktype":"Maintenance/Support",
+"history":"test"
+}
+
+2018-04-12 08:42:00,414 - logger_request - INFO - Connection received from :('10.153.4.10', 53104)
+2018-04-12 08:42:00,415 - logger_request - INFO - Request JSON = {'test': 1, 'application_id': 2, 'automation_tool_id': 24, 'tfs_env': 'test', 'action': 'search', 'id': '213781', 'attribute_to_update': 'repro_steps', 'title': 'Created on 03/19/2018', 'defect_title_to_search': 'Test', 'repro_steps': 'test repro steps---updated--------', 'project_name_in_TFS': 'Test', 'SystemInfo': 'Environment', 'priority': '2', 'severity': '3 - Medium', 'worktype': 'Maintenance/Support', 'history': 'test'}

@@ -1,0 +1,72 @@
+2018-04-15 00:14:34,265 - logger_request - INFO - Connection received from :('10.153.10.120', 58938)
+2018-04-15 00:14:34,332 - logger_request - INFO - Request JSON = {'test': 1, 'application_id': 2, 'automation_tool_id': 24, 'tfs_env': 'test', 'action': 'search', 'id': '213781', 'attribute_to_update': 'repro_steps', 'title': 'Created on 03/19/2018', 'defect_title_to_search': 'Test', 'repro_steps': 'test repro steps---updated--------', 'project_name_in_TFS': 'Test', 'SystemInfo': 'Environment', 'priority': '2', 'severity': '3 - Medium', 'worktype': 'Maintenance/Support', 'history': 'test'}
+2018-04-15 00:14:40,699 - logger_request - INFO - Connection received from :('10.153.10.120', 58940)
+2018-04-15 00:14:40,700 - logger_request - INFO - Raw request = POST / HTTP/1.1
+cache-control: no-cache
+Postman-Token: dead917d-8c36-4f9a-82cb-6a2c6190bdb0
+Accept: application/json
+Content-Type: application/json
+User-Agent: PostmanRuntime/6.4.1
+Host: 10.153.10.120:8001
+accept-encoding: gzip, deflate
+content-length: 434
+Connection: keep-alive
+
+{
+"test":1,
+"application_id":2
+"automation_tool_id":24,
+"tfs_env":"test",
+"action":"search",
+"id":"213781",
+"attribute_to_update": "repro_steps",
+"title":"Created on 03/19/2018",
+"defect_title_to_search":"Test",
+"repro_steps":"test repro steps---updated--------",
+"project_name_in_TFS":"Test",
+"SystemInfo":"Environment",
+"priority":"2",
+"severity":"3 - Medium",
+"worktype":"Maintenance/Support",
+"history":"test"
+}
+
+2018-04-15 00:14:57,154 - logger_request - INFO - Connection received from :('10.153.10.120', 58946)
+2018-04-15 00:14:57,155 - logger_request - INFO - Request JSON = {'test': 1, 'application_id': 2, 'automation_tool_id': 24, 'tfs_env': 'test', 'action': 'search', 'id': '213781', 'attribute_to_update': 'repro_steps', 'title': 'Created on 03/19/2018', 'defect_title_to_search': 'Test', 'repro_steps': 'test repro steps---updated--------', 'project_name_in_TFS': 'Test', 'SystemInfo': 'Environment', 'priority': '2', 'severity': '3 - Medium', 'worktype': 'Maintenance/Support', 'history': 'test'}
+2018-04-15 00:21:16,782 - logger_request - INFO - Connection received from :('10.153.10.120', 59033)
+2018-04-15 00:21:16,788 - logger_request - INFO - Request JSON = {'test': 1, 'application_id': 2, 'automation_tool_id': 24, 'tfs_env': 'test', 'action': 'search', 'id': '213781', 'attribute_to_update': 'repro_steps', 'title': 'Created on 03/19/2018', 'defect_title_to_search': 'Test', 'repro_steps': 'test repro steps---updated--------', 'project_name_in_TFS': 'Test', 'SystemInfo': 'Environment', 'priority': '2', 'severity': '3 - Medium', 'worktype': 'Maintenance/Support', 'history': 'test'}
+2018-04-15 00:21:18,811 - logger_request - INFO - Connection received from :('10.153.10.120', 59035)
+2018-04-15 00:21:18,812 - logger_request - INFO - Request JSON = {'test': 1, 'application_id': 2, 'automation_tool_id': 24, 'tfs_env': 'test', 'action': 'search', 'id': '213781', 'attribute_to_update': 'repro_steps', 'title': 'Created on 03/19/2018', 'defect_title_to_search': 'Test', 'repro_steps': 'test repro steps---updated--------', 'project_name_in_TFS': 'Test', 'SystemInfo': 'Environment', 'priority': '2', 'severity': '3 - Medium', 'worktype': 'Maintenance/Support', 'history': 'test'}
+2018-04-15 00:21:22,543 - logger_request - INFO - Connection received from :('10.153.10.120', 59037)
+2018-04-15 00:21:22,544 - logger_request - INFO - Raw request = POST / HTTP/1.1
+cache-control: no-cache
+Postman-Token: 5afbef6e-aeac-480b-b299-f5cc472eddec
+Accept: application/json
+Content-Type: application/json
+User-Agent: PostmanRuntime/6.4.1
+Host: 10.153.10.120:8001
+accept-encoding: gzip, deflate
+content-length: 434
+Connection: keep-alive
+
+{
+"test":1,
+"application_id":2
+"automation_tool_id":24,
+"tfs_env":"test",
+"action":"search",
+"id":"213781",
+"attribute_to_update": "repro_steps",
+"title":"Created on 03/19/2018",
+"defect_title_to_search":"Test",
+"repro_steps":"test repro steps---updated--------",
+"project_name_in_TFS":"Test",
+"SystemInfo":"Environment",
+"priority":"2",
+"severity":"3 - Medium",
+"worktype":"Maintenance/Support",
+"history":"test"
+}
+
+2018-04-15 00:21:26,465 - logger_request - INFO - Connection received from :('10.153.10.120', 59038)
+2018-04-15 00:21:26,468 - logger_request - INFO - Request JSON = {'test': 1, 'application_id': 2, 'automation_tool_id': 24, 'tfs_env': 'test', 'action': 'search', 'id': '213781', 'attribute_to_update': 'repro_steps', 'title': 'Created on 03/19/2018', 'defect_title_to_search': 'Test', 'repro_steps': 'test repro steps---updated--------', 'project_name_in_TFS': 'Test', 'SystemInfo': 'Environment', 'priority': '2', 'severity': '3 - Medium', 'worktype': 'Maintenance/Support', 'history': 'test'}
